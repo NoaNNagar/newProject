@@ -13,10 +13,10 @@ Description: Landing pages intended for various publications, include a descript
 Technologies Used: HTML, CSS, Bootstrap, SASS.
 Github Repository: Provide a link to the GitHub repository if it's open-source.
 
-4.4. Contact
+3. Contact
 If you want to get in touch with me for collaboration, job opportunities, or any other inquiries, please feel free to reach out to me at:
 
 Email: noanagar88@gmail.com
 
-11.Thank you for visiting my portfolio website! I hope you enjoyed exploring my projects and learning more about my skills and experience as a programmer. If you have any feedback or suggestions, I'd be more than happy to hear from you. Have a great day!
+Thank you for visiting my portfolio website! I hope you enjoyed exploring my projects and learning more about my skills and experience as a programmer. If you have any feedback or suggestions, I'd be more than happy to hear from you. Have a great day!
  # newProject
