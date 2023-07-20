@@ -8,7 +8,7 @@ Contact
 I am a passionate and dedicated programmer with a strong background in software development and a deep love for technology. My journey in the world of programming started several years ago, and I have been continuously learning and improving ever since.
 
 2. Projects
-Projectד: Landing Pages
+Project: Landing Pages
 Description: Landing pages intended for various publications, include a description and a contact form.
 
 Technologies Used: HTML, CSS, Bootstrap, SASS.
